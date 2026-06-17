@@ -11,3 +11,5 @@ Este repositório contém a resolução do desafio prático de estruturação e 
 O script SQL foi desenvolvido para realizar a limpeza e padronização da tabela bruta, corrigindo os tipos de dados usando `SAFE_CAST` e padronizando os textos com `UPPER` e `LOWER`.
 
 O código final está disponível no arquivo [`tratamento_dados.sql`](./tratamento_dados.sql).
+
+Desafio 17/06/26
